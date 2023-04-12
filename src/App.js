@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Le site personnel de <code>Ruslan RESHETNIKOV</code> sera ici.
+          Le site personnel de Ruslan RESHETNIKOV sera ici.
         </p>
         
       </header>
